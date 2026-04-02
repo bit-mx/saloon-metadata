@@ -17,11 +17,11 @@
     "minimum-stability": "stable",
     "require": {
         "php": "^8.3",
-        "saloonphp/saloon": "^3.0"
+        "saloonphp/saloon": "^3.0 | ^v4.0.0"
     },
     "require-dev": {
         "laravel/pint": "^1.15",
-        "pestphp/pest": "^2.34",
+        "pestphp/pest": "^v4.4.3",
         "phpstan/phpstan": "^2.0",
         "phpstan/extension-installer": "^1.4.0",
         "tomasvotruba/type-coverage": "^2.0.2"
